@@ -1,0 +1,42 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid yellow;
+}
+
+.img1 {
+    width: 100%;
+}
+
+#Start,#Status {
+    font-size: 20px;
+}
+
+h4 {
+    background-color: cyan;
+    line-height: 2;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.modal-header {
+    margin: 0;
+}
+
+.modal-content {
+    background-color: gold;
+}
